@@ -22,11 +22,12 @@ env:
 
 # TRIGGERS
 on:
-  page_build:
-  # schedule: # Check your schedule here => https://crontab.guru/
-  #   - cron: '55 23 * * 0' # e.g. every Sunday at 23:55
-  #
-  # THAT'S IT; YOU'RE DONE;
+  # NOTE: the original `page_build:` trigger only fires for GitHub's legacy
+  # Pages builder. This site is published from the prebuilt `gh-pages` branch,
+  # which does not emit `page_build`, so the badge job would never run. Instead
+  # we run it on a weekly schedule plus on-demand via "Run workflow".
+  schedule:
+    - cron: "0 6 * * 1" # every Monday at 06:00 UTC
   workflow_dispatch:
 
 # The built-in GITHUB_TOKEN needs write access to commit the generated badges
