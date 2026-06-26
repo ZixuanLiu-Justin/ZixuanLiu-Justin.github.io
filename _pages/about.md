@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in Computer Science at [Vanderbilt University](https://www.vanderbilt.edu/), advised by Prof. [Michael I. Miga](https://my.vanderbilt.edu/) and co-advised by Prof. Jie Ying Wu. I am affiliated with the Biomedical Modeling Laboratory (BML), the Machine Automation, Perception, and Learning (MAPLE) Lab, and the Vanderbilt Institute for Surgery and Engineering (VISE). Previously, I received my M.S.E. in Computer Science from Johns Hopkins University and my B.S. in Computer Science (Magna Cum Laude) from Wenzhou-Kean University.
+I am a PhD student in Computer Science at [Vanderbilt University](https://www.vanderbilt.edu/), advised by Prof. Michael I. Miga and co-advised by Prof. Jie Ying Wu. I am affiliated with the Biomedical Modeling Laboratory (BML), the Machine Automation, Perception, and Learning (MAPLE) Lab, and the Vanderbilt Institute for Surgery and Engineering (VISE). Previously, I received my M.S.E. in Computer Science from Johns Hopkins University and my B.S. in Computer Science (Magna Cum Laude) from Wenzhou-Kean University.
 
 My research focuses on developing intelligent surgical assistive systems that integrate mixed reality (MR), robotics, computer vision, and deformable registration to enhance the efficiency of minimally invasive surgeries. I am particularly interested in (1) using MR and computer vision algorithms to provide intraoperative guidance and navigation, (2) developing robotic systems with intelligent decision strategies for understanding the surgical scene, and (3) deformable modeling for soft tissue surgery, especially breast-conserving surgery (BCS).
 
