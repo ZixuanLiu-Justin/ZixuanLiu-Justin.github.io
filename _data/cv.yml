@@ -1,179 +1,206 @@
 cv:
-  name: Albert Einstein
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Zixuan Liu
+  location: Nashville, TN
+  email: zixuan.liu@vanderbilt.edu
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+      username: ZixuanLiu-Justin
 
   sections:
+    Research Interests:
+      - "My research focuses on developing intelligent surgical assistive systems that integrate mixed reality (MR), robotics, computer vision, and deformable registration to enhance the efficiency of minimally invasive surgeries. I am particularly interested in (1) utilizing MR and computer vision algorithms to provide intraoperative guidance and navigation, (2) developing robotic systems with intelligent decision strategies for understanding the surgical scene, and (3) deformable modeling for soft tissue surgery, especially for breast-conserving surgery (BCS)."
+
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Vanderbilt University
+        location: Nashville, TN, USA
+        url: https://www.vanderbilt.edu/
+        area: Computer Science
+        degree: PhD
+        start_date: 2024-08
+        end_date: present
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Current GPA: 4.0/4.0"
+          - "Advisors: Michael I. Miga (primary), Jie Ying Wu (co-advisor)"
+          - "Affiliations: Biomedical Modeling Laboratory (BML); Machine Automation, Perception, and Learning (MAPLE) Lab; Vanderbilt Institute for Surgery and Engineering (VISE)"
+          - "Research keywords: Computer Aided Intervention, Image-guided Surgery, Surgical Robotics, Mixed Reality"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Johns Hopkins University
+        location: Baltimore, MD, USA
+        url: https://www.jhu.edu/
+        area: Computer Science
+        degree: MSE
+        start_date: 2022-08
+        end_date: 2024-05
         highlights:
-          - Description 1.
-          - Description 2.
+          - "GPA: 3.79/4.0"
+          - "Affiliation: Laboratory for Computational Sensing and Robotics (LCSR)"
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - institution: Wenzhou-Kean University
+        location: Wenzhou, China
+        url: https://www.wku.edu.cn/
+        area: Computer Science (minor in Mathematical Science)
+        degree: BS
+        start_date: 2018-08
+        end_date: 2022-06
         highlights:
-          - Relativity
-          - Description 2.
+          - "Magna Cum Laude"
+          - "GPA: 3.818/4.0"
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+    Professional Employment:
+      - company: Euclid Techlabs LLC
+        position: Robot Algorithm Engineer Intern
+        location: Hybrid, Beltsville, MD, USA
+        start_date: 2023-07
+        end_date: 2023-09
         highlights:
-          - Description 1.
-          - Description 2.
+          - Involved in development of an HDR Electronic Brachytherapy system prototype.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+    Selected Awards:
+      - bullet: "Finalist, Best Paper Award, IPCAI 2024 (for [J-3])"
+      - bullet: "Potential Impact Award, Introduction to Augmented Reality, Johns Hopkins University, 2023"
+      - bullet: "Best Project Award, Computer Integrated Surgery II, Johns Hopkins University, 2023"
+      - bullet: "Dean's Scholarship – Research and Innovation, Wenzhou-Kean University, 2021"
+      - bullet: "Dean's Scholarship – Second Class, Wenzhou-Kean University, 2021"
+      - bullet: "Dean's Scholarship – Third Class, Wenzhou-Kean University, 2020"
+      - bullet: "Magna Cum Laude, B.S. in Computer Science, Wenzhou-Kean University, 2022"
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
+    Journal Articles:
+      - title: Robotic-enabled Surgical Navigation Assistant for Breast-Conserving Surgery
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "***Z. Liu***"
+          - B. Xiang
+          - J. Heiselman
+          - J.Y. Wu
+          - I. Meszoely
+          - M.I. Miga
+        journal: IEEE Robotics and Automation Letters (RA-L)
+        date: 2026
+        summary: Accepted.
 
-      - title: Max Planck Medal
+      - title: "Stand in Surgeon's Shoes: Virtual Reality Cross-training to Enhance Teamwork in Surgery"
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - B.D. Killeen
+          - "***Z. Liu***"
+          - H. Zhang
+          - L. Wang
+          - C. Kleinbeck
+          - M. Rosen
+          - R.H. Taylor
+          - G. Osgood
+          - M. Unberath
+        journal: International Journal of Computer Assisted Radiology and Surgery (IPCAI 2024 Special Issue)
+        date: 2024
+        summary: Finalist for Best Paper Award at IPCAI 2024.
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "A Magnetic Resonance Conditional Robot for Lumbar Spinal Injection: Development and Preliminary Validation"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - D. Liu
+          - G. Li
+          - S. Wang
+          - "***Z. Liu***"
+          - Y. Wang
+          - L. Connolly
+          - G. Shen
+          - K. Cleary
+          - I. Iordachita
+        journal: International Journal of Medical Robotics and Computer Assisted Surgery (IJMRCARS)
+        date: 2023
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Optimal Recycle Price Game Theory Model for Second-hand Mobile Phone Recycling
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - K.E. Ehimwenma
+          - S. Krishnamoorthy
+          - "***Z. Liu***"
+          - Y. Qiu
+          - Y. Liu
+          - W. Dou
+        journal: Environmental Science and Pollution Research International (ESPR)
+        date: 2021
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+    Conference Papers:
+      - title: Robotic Stereo-camera System with SAM 2 for Multiview Surface Reconstruction of Anatomical Structures in Surgery
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - B. Xiang
+          - "***Z. Liu***"
+          - M.I. Miga
+        journal: "SPIE Medical Imaging 2026: Image-Guided Procedures, Robotic Interventions, and Modeling, vol. 13927, p. 139270P"
+        date: 2026
+        summary: Selected for oral presentation.
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: Real-time Optimal Viewpoint Control for Image-guided Surgery using Learning-based Active Perception
+        authors:
+          - U. Rajamani
+          - "***Z. Liu***"
+          - I.M. Meszoely
+          - M.I. Miga
+        journal: "SPIE Medical Imaging 2026: Image-Guided Procedures, Robotic Interventions, and Modeling, vol. 13927, p. 1392721"
+        date: 2026
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - title: Augmented Reality-Based Guidance with Deformable Registration in Head and Neck Tumor Resection
+        authors:
+          - Q. Yang
+          - F. Li
+          - J. Xu
+          - "***Z. Liu***"
+          - S. Sridhar
+          - W. Jin
+          - J. Du
+          - J. Heiselman
+          - M. Miga
+          - M. Topf
+          - J.Y. Wu
+        journal: Medical Image Computing and Computer-Assisted Intervention (MICCAI)
+        date: 2025
 
-      - name: English
-        summary: "Fluent"
+      - title: Development of an MRI Guided Auxiliary Robot for Spinal Injections
+        authors:
+          - D. Liu
+          - "***Z. Liu***"
+          - G. Li
+          - L. Connolly
+          - G. Shen
+          - I. Iordachita
+        journal: IEEE International Conference on Robotic Computing (IRC)
+        date: 2023
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Book Chapters:
+      - title: Integration of IoT and Big Data in the Field of Entertainment for Recommendation System
+        authors:
+          - Y. Liu
+          - W. Dou
+          - "***Z. Liu***"
+          - E. Szarek
+          - S. Krishnamoorthy
+        journal: "Securing IoT and Big Data, pp. 109–121, CRC Press"
+        date: 2020
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    Preprints / Under Review:
+      - title: "X-GuideAR: An Augmented Reality Framework to Mitigate Radiation Exposure during Fluoroscopic Guidance. A Use Case in S2AI Screw Placement"
+        authors:
+          - M. Liu
+          - "***Z. Liu***"
+          - R. Cai
+          - Y.-C. Ku
+          - S. Gu
+          - A. Jain
+          - A. Martin-Gomez
+          - M. Armand
+        summary: Under Review.
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+    Invited Talks and Demos:
+      - bullet: '2026 International Symposium on Medical Robotics (ISMR), Late-Breaking Research Poster, Knoxville, USA, 04/2026 — "ReSNA: A Robotic-Enabled Surgical Navigation Assistant for Breast-Conserving Surgery."'
+      - bullet: "14th VISE Symposium, Oral Presentation, Vanderbilt University, USA, 12/2025."
+      - bullet: "13th VISE Symposium, Vanderbilt University, USA, 12/2024."
+      - bullet: "1st Computer Science Symposium, Wenzhou-Kean University, China, 12/2024."
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    Teaching:
+      - company: Wenzhou-Kean University
+        position: Peer Tutor, Student Academic Support Service Center
+        start_date: 2019
+        end_date: 2021
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Service:
+      - bullet: "Course Assistant, Computer Integrated Surgery I (EN.601.455/655), Johns Hopkins University, Fall 2023"
+      - bullet: "Student Reviewer, MSE Computer Science Admissions Committee, Johns Hopkins University, Fall 2023 & Fall 2024"
+      - bullet: "Journal Reviewer, IEEE Transactions on Medical Robotics and Bionics"
