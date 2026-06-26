@@ -20,7 +20,9 @@ jobs:
       - name: Setup Node.js ⚙️
         uses: actions/setup-node@v4
       - name: Install Prettier 💾
-        run: npm install --save-dev --save-exact prettier @shopify/prettier-plugin-liquid
+        # Pinned versions so the check is deterministic — an unpinned "latest"
+        # plugin once formatted content differently and broke this job.
+        run: npm install --save-dev --save-exact prettier@3.8.5 @shopify/prettier-plugin-liquid@1.10.3
       - name: Prettier Check 🔎
         id: prettier
         run: npx prettier . --check
