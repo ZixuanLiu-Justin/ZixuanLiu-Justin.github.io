@@ -4,7 +4,7 @@
 cv_pdf: /assets/pdf/Zixuan_Liu_CV.pdf # path to your CV PDF file
 email: zixuan.liu@vanderbilt.edu # your email address
 github_username: ZixuanLiu-Justin # your GitHub username
-rss_icon: true # comment this line to hide the RSS icon
+rss_icon: false # comment this line to hide the RSS icon
 # scholar_userid: # add your Google Scholar ID here (the string after `user=` in your Scholar profile URL)
 # linkedin_username: # add your LinkedIn username here
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
