@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Gave an oral presentation on **ReSNA: A Robotic-enabled Surgical Navigation Assistant for Breast-Conserving Surgery** at the 14th VISE Symposium, Vanderbilt University. :tada:
+Gave an oral presentation at the 14th VISE Symposium, Vanderbilt University. :tada:
