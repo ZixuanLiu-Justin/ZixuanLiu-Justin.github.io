@@ -67,7 +67,7 @@ cv:
       - bullet: "Magna Cum Laude, B.S. in Computer Science, Wenzhou-Kean University, 2022"
 
     Journal Articles:
-      - title: Robotic-enabled Surgical Navigation Assistant for Breast-Conserving Surgery
+      - title: "ReSNA: A Robotic-Enabled Surgical Navigation Assistant for Breast-Conserving Surgery"
         authors:
           - "***Z. Liu***"
           - B. Xiang
@@ -75,9 +75,9 @@ cv:
           - J.Y. Wu
           - I. Meszoely
           - M.I. Miga
-        journal: IEEE Robotics and Automation Letters (RA-L)
+        journal: IEEE Robotics and Automation Letters (RA-L), vol. 11, no. 8, pp. 9994–10001
         date: 2026
-        summary: Accepted.
+        doi: 10.1109/LRA.2026.3710046
 
       - title: "Stand in Surgeon's Shoes: Virtual Reality Cross-training to Enhance Teamwork in Surgery"
         authors:
