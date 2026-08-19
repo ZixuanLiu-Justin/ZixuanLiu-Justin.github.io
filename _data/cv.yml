@@ -91,6 +91,7 @@ cv:
           - G. Osgood
           - M. Unberath
         journal: International Journal of Computer Assisted Radiology and Surgery (IPCAI 2024 Special Issue)
+        doi: 10.1007/s11548-024-03138-7
         date: 2024
         summary: Finalist for Best Paper Award at IPCAI 2024.
 
@@ -106,6 +107,7 @@ cv:
           - K. Cleary
           - I. Iordachita
         journal: International Journal of Medical Robotics and Computer Assisted Surgery (IJMRCARS)
+        doi: 10.1002/rcs.2618
         date: 2023
 
       - title: Optimal Recycle Price Game Theory Model for Second-hand Mobile Phone Recycling
@@ -117,6 +119,7 @@ cv:
           - Y. Liu
           - W. Dou
         journal: Environmental Science and Pollution Research International (ESPR)
+        doi: 10.1007/s11356-021-17061-w
         date: 2021
 
     Conference Papers:
@@ -126,6 +129,7 @@ cv:
           - "***Z. Liu***"
           - M.I. Miga
         journal: "SPIE Medical Imaging 2026: Image-Guided Procedures, Robotic Interventions, and Modeling, vol. 13927, p. 139270P"
+        doi: 10.1117/12.3087701
         date: 2026
         summary: Selected for oral presentation.
 
@@ -136,6 +140,7 @@ cv:
           - I.M. Meszoely
           - M.I. Miga
         journal: "SPIE Medical Imaging 2026: Image-Guided Procedures, Robotic Interventions, and Modeling, vol. 13927, p. 1392721"
+        doi: 10.1117/12.3088072
         date: 2026
 
       - title: Augmented Reality-Based Guidance with Deformable Registration in Head and Neck Tumor Resection
@@ -152,6 +157,7 @@ cv:
           - M. Topf
           - J.Y. Wu
         journal: Medical Image Computing and Computer-Assisted Intervention (MICCAI)
+        doi: 10.1007/978-3-032-05114-1_5
         date: 2025
 
       - title: Development of an MRI Guided Auxiliary Robot for Spinal Injections
@@ -163,6 +169,7 @@ cv:
           - G. Shen
           - I. Iordachita
         journal: IEEE International Conference on Robotic Computing (IRC)
+        url: https://ieeexplore.ieee.org/document/10473547/
         date: 2023
 
     Book Chapters:
@@ -174,6 +181,7 @@ cv:
           - E. Szarek
           - S. Krishnamoorthy
         journal: "Securing IoT and Big Data, pp. 109–121, CRC Press"
+        doi: 10.1201/9781003009092-6
         date: 2020
 
     Preprints / Under Review:
